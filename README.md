@@ -1,12 +1,13 @@
 # _Riddles of the Sphinx_
 
-#### _Epicodus Project May 4, 2020_
+#### _Epicodus Project May 5, 2020_
 
 #### By _**Jessica Hvozdovich and Matt Stroud**_
+#### V2 Contributions By _**Ethan Firpo**_
 
 ## Description
 
-_A project to introduce the C# language and the .NET Core framework. The lesson explores a console riddle project that evaluates user entries._
+_A project to introduce the C# language and the .NET Core framework. The lesson explores a console riddle project that evaluates user entries. The console generates random riddles that a user must answer correctly to progress. This project was updated to separate business and UI logic as well as use private fields, constructors, namespaces, and static methods._
 
 ## Setup/Installation Requirements
 
@@ -22,7 +23,7 @@ There are no known bugs at the time of this update.
  
 ## Support and contact details
 
-_Have a bug or an issue with this application? [Open a new issue](https://github.com/mlstroud/riddles-of-the-sphinx/issues) here on GitHub._
+_Have a bug or an issue with this application? [Open a new issue](https://github.com/jhvozdovich/riddles-of-the-sphinx/issues) here on GitHub._
 
 ## Technologies Used
 
@@ -34,4 +35,4 @@ _Have a bug or an issue with this application? [Open a new issue](https://github
 
 This software is licensed under the MIT license.
 
-Copyright (c) 2020 **_Jessica Hvozdovich and Matt Stroud_**
+Copyright (c) 2020 **_Jessica Hvozdovich, Matt Stroud, and Ethan Firpo_**
